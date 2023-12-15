@@ -1,0 +1,7 @@
+./data/kitti/08/trajectory.txt
+./data/kitti/06/trajectory.txt
+./data/kitti/07/trajectory.txt
+./data/kitti/00/trajectory.txt
+./data/kitti/09/trajectory.txt
+./data/kitti/02/trajectory.txt
+./data/kitti/05/trajectory.txt

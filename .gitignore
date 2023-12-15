@@ -1,0 +1,7 @@
+__pycache__
+/train.py
+/temp.py
+/*.zip
+/data/*.zip
+/data/**/
+/train_log/

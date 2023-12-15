@@ -1,0 +1,9 @@
+./data/kaist/urban28-pankyo/trajectory.txt
+./data/kaist/urban26-dongtan/trajectory.txt
+./data/kaist/urban33-yeouido/trajectory.txt
+./data/kaist/urban34-yeouido/trajectory.txt
+./data/kaist/urban30-gangnam/trajectory.txt
+./data/kaist/urban27-dongtan/trajectory.txt
+./data/kaist/urban32-yeouido/trajectory.txt
+./data/kaist/urban39-pankyo/trajectory.txt
+./data/kaist/urban38-pankyo/trajectory.txt
